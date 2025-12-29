@@ -5,3 +5,14 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+.header {
+    background-color: #1f2937;
+}
+
+.head {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
