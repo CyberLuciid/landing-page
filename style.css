@@ -13,6 +13,22 @@ body {
 .head {
     color: white;
     display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
+    align-items:center;
+    padding: 0 24px;
+}
+
+.nav {
+    margin-left: auto;
+    font-size: 14px;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    gap: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: lightgrey;
 }
