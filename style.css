@@ -120,7 +120,7 @@ a {
     border-radius: 8px;
     width: 900px;
     height: 100px;
-    margin: auto;
+    margin: 48px auto 48px;
     background-color: #3882f6;
 }
 
@@ -145,4 +145,15 @@ a {
     padding: 5px 15px;
     cursor: pointer;
     margin: 8px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 18px;
+    background-color: #1f2937;
+    color: #ffffff;
+    padding: 16px;
+    margin-top: 72px;
 }
