@@ -8,12 +8,12 @@ It was built with HTML5, CSS3, and Flexbox.
 I practiced structuring a full webpage from scratch, using Flexbox for layout, breaking down the design into sections, 
 writing cleaner, more descriptive commit messages, and using Git and GitHub for version control.
 
-Live Preview:
+Live Preview: N/A
 
 
 
 
-Image Credits:
+Image Credits: https://placeholdit.com/en
 
 
 
