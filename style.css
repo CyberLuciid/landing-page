@@ -113,6 +113,36 @@ a {
     align-self: flex-end;
 }
 
+.cta {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 8px;
+    width: 900px;
+    height: 100px;
+    margin: auto;
+    background-color: #3882f6;
+}
+
 .action {
-    
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.cta-subtext {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.cta-signup {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border: 2px solid #ffffff;
+    border-radius: 4px;
+    padding: 5px 15px;
+    cursor: pointer;
+    margin: 8px;
 }
